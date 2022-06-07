@@ -1,2 +1,3 @@
 # com-banan
-Main library of Banan Inc
+
+Main library of Banan Inc (fake company)
